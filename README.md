@@ -1,2 +1,2 @@
-# cybersecurity
+# Cybersecurity
 My cybersecurity repository
